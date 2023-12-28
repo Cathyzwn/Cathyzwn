@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zining (Cathy) Wang, a master's student at Georgetown University. Go Hoya!!!
+- 👋 Hi, I’m Zining (Cathy) Wang, a master's student at Georgetown University. Hoya Saxa!!!
 - 👀 I’m pursuing a master's degree in Data Science and Analytics
 - 🌱 I’m currently refining my coding skills in Python, SQL, Tableau etc. 
 - 📫 My email is cathyzwn@gmail, feel free to reach out:)
